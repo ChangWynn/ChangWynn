@@ -1,13 +1,13 @@
-![javascript](https://img.shields.io/badge/HTML-orange?style=flat-square&logoColor=white&logo=html5)
-![javascript](https://img.shields.io/badge/CSS-blue?style=flat-square&logoColor=white&logo=css3)
-![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logoColor=white&logo=javascript)
-![javascript](https://img.shields.io/badge/REACT-blue?style=flat-square&logoColor=white&logo=react)
-![javascript](https://img.shields.io/badge/EXPRESS-orange?style=flat-square&logoColor=white&logo=express)
-![javascript](https://img.shields.io/badge/MONGODB-brightgreen?style=flat-square&logoColor=white&logo=mongodb)
-![javascript](https://img.shields.io/badge/NODE.JS-green?style=flat-square&logoColor=white&logo=nodedotjs)
-![javascript](https://img.shields.io/badge/RUBY-red?style=flat-square&logoColor=white&logo=ruby)
-![javascript](https://img.shields.io/badge/SINATRA-grey?style=flat-square&logoColor=white&logo=rubysinatra)
-![javascript](https://img.shields.io/badge/POSTGRESQL-blue?style=flat-square&logoColor=white&logo=postgresql)
+![javascript](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logoColor=white&logo=html5)
+![javascript](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logoColor=white&logo=css3)
+![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logoColor=white&logo=javascript)
+![javascript](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logoColor=white&logo=react)
+![javascript](https://img.shields.io/badge/EXPRESS-orange?style=for-the-badge&logoColor=white&logo=express)
+![javascript](https://img.shields.io/badge/MONGODB-brightgreen?style=for-the-badge&logoColor=white&logo=mongodb)
+![javascript](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logoColor=white&logo=nodedotjs)
+![javascript](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
+![javascript](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
+![javascript](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql)
 <!--
 **ChangWynn/ChangWynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
