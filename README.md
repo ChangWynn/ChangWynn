@@ -48,7 +48,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /> -->
 </div>
 
-<h3 align="center">Contact me</h3>
+<br/>
+
+<h3 align="center">Contacts</h3>
+
+<div align="center">
+
+  <a href='mailto:huynhchang.one@gmail.com' target='blank' ><img src="https://img.shields.io/badge/Gmail-red?style=flat&logoColor=white&logo=gmail"/></a>
+  <a href='https://www.linkedin.com/in/chang-wynn-8950811b9/' target='blank' ><img src="https://img.shields.io/badge/linkedin-blue?style=flat&logoColor=white&logo=linkedin"/></a>
+
+</div>
+
 
 <!-- <div style='display: flex; flex-direction: row; align-items:center; justify-content:center;'>
 
