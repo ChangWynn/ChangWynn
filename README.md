@@ -30,8 +30,7 @@
   
   ![ruby](https://img.shields.io/badge/RUBY-red?style=flat&logoColor=white&logo=ruby)
   ![sinatra](https://img.shields.io/badge/SINATRA-grey?style=flat&logoColor=white&logo=rubysinatra)
-  ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=flat&logoColor=white&logo=postgresql)
-  
+  ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=flat&logoColor=white&logo=postgresql) *  
   ![rspec](https://img.shields.io/badge/RSPEC-red?style=flat&logoColor=white&logo=rubygems)
   ![jest](https://img.shields.io/badge/JEST-green?style=flat&logoColor=white&logo=jest)
   
