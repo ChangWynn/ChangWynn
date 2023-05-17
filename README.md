@@ -8,15 +8,10 @@
 ![ruby](https://img.shields.io/badge/RUBY-red?style=for-the-badge&logoColor=white&logo=ruby)
 ![sinatra](https://img.shields.io/badge/SINATRA-grey?style=for-the-badge&logoColor=white&logo=rubysinatra)
 ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logoColor=white&logo=postgresql) -->
-
 <!-- <h3 align="left">Connect with me:</h3> -->
 
 
-![](./images/banner_2.png)
-
-<!-- <h3 align="center">Languages and Tools:</h3> -->
-
-
+![banner](./images/banner_2.png)
 
 <div align="center"> 
   
@@ -55,18 +50,9 @@
 <div align="center">
 
   <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img src="https://img.shields.io/badge/Gmail-red?style=flat&logoColor=white&logo=gmail"/></a>
-  [<img src="https://img.shields.io/badge/linkedin-blue?style=flat&logoColor=white&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/chang-wynn-8950811b9/)
+  [<img src="https://img.shields.io/badge/linkedin-blue?style=flat&logoColor=white&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/chang-huynh-8950811b9/)
 
 </div>
-
-
-<!-- <div style='display: flex; flex-direction: row; align-items:center; justify-content:center;'>
-
-  <a href='mailto:huynhchang.one@gmail.com' target='blank' ><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
-  <a href='https://www.linkedin.com/in/chang-wynn-8950811b9/' target='blank' ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-
-</div> -->
-
 
 <br/>
 
