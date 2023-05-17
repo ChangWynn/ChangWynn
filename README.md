@@ -15,7 +15,7 @@
 
 <div align="center"> 
   
-  ![javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=flat&logoColor=white&logo=javascript)
+  ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
   ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=html5)
   ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white&logo=css3) *
   ![react](https://img.shields.io/badge/REACT-5ed3f3?style=flat&logoColor=white&logo=react)
