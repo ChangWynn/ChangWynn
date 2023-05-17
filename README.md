@@ -60,8 +60,8 @@
 
 <div align="center">
 
-![Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0.5&count_weight=0.5&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats)
+![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
+[![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0.5&count_weight=0.5&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats)
 
 </div>
 
