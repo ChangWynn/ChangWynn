@@ -14,7 +14,7 @@
 ![banner](./images/banner_2.png)
 
 <div align="center"> 
-  
+
   ![javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat&logoColor=white&logo=javascript)
   ![html](https://img.shields.io/badge/HTML-orange?style=flat&logoColor=white&logo=html5)
   ![css](https://img.shields.io/badge/CSS-blue?style=flat&logoColor=white&logo=css3) *
@@ -28,12 +28,13 @@
   ![postgresql](https://img.shields.io/badge/POSTGRESQL-blue?style=flat&logoColor=white&logo=postgresql) * 
   ![rspec](https://img.shields.io/badge/RSPEC-red?style=flat&logoColor=white&logo=rubygems)
   ![jest](https://img.shields.io/badge/JEST-green?style=flat&logoColor=white&logo=jest)
-  
+
   ![git](https://img.shields.io/badge/GIT-red?style=flat&logoColor=white&logo=git)
   ![github](https://img.shields.io/badge/GITHUB-grey?style=flat&logoColor=white&logo=github)
 
 
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
