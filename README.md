@@ -27,8 +27,7 @@
   ![sinatra](https://img.shields.io/badge/SINATRA-000000?style=flat&logoColor=white&logo=rubysinatra)
   ![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql) * 
   ![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
-  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest)
-  
+  ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest) *
   ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
   ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
   
