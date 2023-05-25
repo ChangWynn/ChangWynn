@@ -63,30 +63,39 @@
   
 </div>
 
-<br/>
-
-<h3 align="center">Contact me</h3>
+<!-- <h3 align="center">Contact me</h3>
 
 <div align="center">
 
   <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat&logoColor=white&logo=gmail" alt="Gmail" target="_blank"></a>
   <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img src="https://img.shields.io/badge/linkedin-0063c2?style=flat&logoColor=white&logo=linkedin" alt="Linkedin" target="_blank"></a>
 
+</div> -->
+
 </div>
 
-<br/>
+<div align='center'>
+  
+#### CONTACT ME
 
-<h3 align="center">My Github Stats</h3>
+  <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
+  <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
+  
+</div>
 
-<div align="center">
+<!-- <div align="center">
+  
+#### MY STATS
 
   [![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0.5&count_weight=0.5&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats)
   
   ![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
   
+</div> -->
+  
 
 
-</div>
+
 
 <!--
 **ChangWynn/ChangWynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
