@@ -16,6 +16,7 @@
 <div align="center"> 
   
   ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
+  ![typescript](https://img.shields.io/badge/TYPESCRIPT-2f74c0?style=flat&logoColor=white&logo=typescript)
   ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=html5)
   ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white&logo=css3) *
   ![react](https://img.shields.io/badge/REACT-5ed3f3?style=flat&logoColor=white&logo=react)
@@ -28,8 +29,13 @@
   ![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql) * 
   ![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
   ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest) *
+  ![AWS](https://img.shields.io/badge/AWS-f90?style=flat&logoColor=black&logo=amazonaws)
   ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
   ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
+  
+<!--   ![AWS](https://img.shields.io/badge/AWS-f2f2f2?style=flat&logoColor=black&logo=amazonaws)
+  ![EC2](https://img.shields.io/badge/EC2-ef931e?style=flat&logoColor=white&logo=amazonec2)
+  ![S3](https://img.shields.io/badge/S3-d64e3f?style=flat&logoColor=white&logo=amazons3) -->
   
   
 <!--   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
