@@ -83,7 +83,7 @@
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
 #### MY STATS
 
@@ -91,7 +91,7 @@
   
   ![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
   
-</div>
+</div> -->
   
 
 
