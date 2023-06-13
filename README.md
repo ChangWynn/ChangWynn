@@ -16,10 +16,11 @@
 <div align="center"> 
   
   ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
-  ![typescript](https://img.shields.io/badge/TYPESCRIPT-2f74c0?style=flat&logoColor=white&logo=typescript)
+  ![typescript](https://img.shields.io/badge/TYPESCRIPT-2f74c0?style=flat&logoColor=white&logo=typescript) 
   ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=html5)
   ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white&logo=css3) *
   ![react](https://img.shields.io/badge/REACT-5ed3f3?style=flat&logoColor=white&logo=react)
+  ![redux](https://img.shields.io/badge/REDUX-764abc?style=flat&logoColor=white&logo=redux)
   ![nodedotjs](https://img.shields.io/badge/NODE.JS-339933?style=flat&logoColor=white&logo=nodedotjs)
   ![express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logoColor=white&logo=express)
   ![mongodb](https://img.shields.io/badge/MONGODB-4EA94B?style=flat&logoColor=white&logo=mongodb)
