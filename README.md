@@ -30,7 +30,7 @@
   ![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql) * 
   ![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
   ![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest) *
-  ![AWS](https://img.shields.io/badge/AWS-f90?style=flat&logoColor=black&logo=amazonaws)
+  ![Firebase](https://img.shields.io/badge/FIREBASE-ffcc30?style=flat&logoColor=black&logo=firebase)
   ![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
   ![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
   
