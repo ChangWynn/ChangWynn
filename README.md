@@ -13,8 +13,45 @@
 
 ![banner](./images/banner_2.png)
 
-<div align="center"> 
-  
+<div align="center">
+
+LANGUAGES AND FRAMEWORKS <br />
+![react](https://img.shields.io/badge/REACT-5ed3f3?style=flat&logoColor=white&logo=react) 
+![redux](https://img.shields.io/badge/REDUX-764abc?style=flat&logoColor=white&logo=redux) <br />
+![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logoColor=white&logo=html5)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logoColor=white&logo=css3)
+![ruby](https://img.shields.io/badge/RUBY-CC342D?style=flat&logoColor=white&logo=ruby)
+
+BACKEND <br />
+![nodedotjs](https://img.shields.io/badge/NODE.JS-339933?style=flat&logoColor=white&logo=nodedotjs)
+![express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logoColor=white&logo=express)
+![Firebase](https://img.shields.io/badge/FIREBASE-ffcc30?style=flat&logoColor=black&logo=firebase)
+
+DATABASES <br />
+![mongodb](https://img.shields.io/badge/MONGODB-4EA94B?style=flat&logoColor=white&logo=mongodb)
+![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql)
+
+
+TESTING <br />
+![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest)
+![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
+
+COLLABORATION <br />
+![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
+![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
+![Jira](https://img.shields.io/badge/JIRA-4f92ed?style=flat&logoColor=white&logo=jirasoftware)
+
+COOL STUFF <br />
+![Framer-Motion](https://img.shields.io/badge/FRAMER_MOTION-ec3ab6?style=flat&logoColor=black&logo=framer)
+
+I'M CURRENTLY LEARNING <br />
+![react-native](https://img.shields.io/badge/REACT_NATIVE-61dafb?style=flat&logoColor=white&logo=react)
+![Threedotjs](https://img.shields.io/badge/THREE_JS-fff?style=flat&logoColor=black&logo=threedotjs)
+<!-- ![socketIO](https://img.shields.io/badge/SOCKET_IO-fff?style=flat&logoColor=black&logo=socketdotio) -->
+<!-- ![R3F](https://img.shields.io/badge/REACT_THREE_FIBER-fff?style=flat&logoColor=black&logo=threedotjs) -->
+
+<!--
   ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
   ![typescript](https://img.shields.io/badge/TYPESCRIPT-2f74c0?style=flat&logoColor=white&logo=typescript) 
   ![html](https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=html5)
