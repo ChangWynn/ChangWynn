@@ -15,46 +15,31 @@
 
 <div align="center">
 
-LANGUAGES AND FRAMEWORKS <br />
+TECH STACK
 
-![react](https://img.shields.io/badge/REACT-5ed3f3?style=flat&logoColor=white&logo=react) 
-![redux](https://img.shields.io/badge/REDUX-764abc?style=flat&logoColor=white&logo=redux) <br />
-![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logoColor=white&logo=html5)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logoColor=white&logo=css3)
-![ruby](https://img.shields.io/badge/RUBY-CC342D?style=flat&logoColor=white&logo=ruby)
-
-BACKEND <br />
-
-![nodedotjs](https://img.shields.io/badge/NODE.JS-339933?style=flat&logoColor=white&logo=nodedotjs)
-![express](https://img.shields.io/badge/EXPRESS-000000?style=flat&logoColor=white&logo=express)
-![Firebase](https://img.shields.io/badge/FIREBASE-ffcc30?style=flat&logoColor=black&logo=firebase)
-
-DATABASES <br />
-
-![mongodb](https://img.shields.io/badge/MONGODB-4EA94B?style=flat&logoColor=white&logo=mongodb)
-![postgresql](https://img.shields.io/badge/POSTGRESQL-316192?style=flat&logoColor=white&logo=postgresql)
-
-TESTING <br />
-
-![jest](https://img.shields.io/badge/JEST-C21325?style=flat&logoColor=white&logo=jest)
-![jest](https://img.shields.io/badge/TESTING_LIBRARY/REACT-fa4f49?style=flat&logoColor=white&logo=testinglibrary)
-![rspec](https://img.shields.io/badge/RSPEC-fe405f?style=flat&logoColor=white&logo=rubygems)
-
-COLLABORATION <br />
-
-![git](https://img.shields.io/badge/GIT-F05032?style=flat&logoColor=white&logo=git)
-![github](https://img.shields.io/badge/GITHUB-181717?style=flat&logoColor=white&logo=github)
-![Jira](https://img.shields.io/badge/JIRA-4f92ed?style=flat&logoColor=white&logo=jirasoftware)
-
-COOL STUFF <br />
-
-![Framer-Motion](https://img.shields.io/badge/FRAMER_MOTION-ec3ab6?style=flat&logoColor=black&logo=framer)
+![react](https://img.shields.io/badge/React-5ed3f3?style=flat&logoColor=white&logo=react) 
+![redux](https://img.shields.io/badge/Redux-764abc?style=flat&logoColor=white&logo=redux) *
+![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logoColor=white&logo=javascript)
+![html](https://img.shields.io/badge/Html5-E34F26?style=flat&logoColor=white&logo=html5)
+![css](https://img.shields.io/badge/Css3-1572B6?style=flat&logoColor=white&logo=css3)
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logoColor=white&logo=ruby) <br />
+![nodedotjs](https://img.shields.io/badge/Node.js-339933?style=flat&logoColor=white&logo=nodedotjs)
+![express](https://img.shields.io/badge/Express-000000?style=flat&logoColor=white&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-ffcc30?style=flat&logoColor=black&logo=firebase) *
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logoColor=white&logo=mongodb)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logoColor=white&logo=postgresql) <br />
+![jest](https://img.shields.io/badge/Jest-C21325?style=flat&logoColor=white&logo=jest)
+![testingLibrary](https://img.shields.io/badge/Testing_Library/React-fa4f49?style=flat&logoColor=white&logo=testinglibrary)
+![rspec](https://img.shields.io/badge/Rspec-fe405f?style=flat&logoColor=white&logo=rubygems) <br />
+![git](https://img.shields.io/badge/Git-F05032?style=flat&logoColor=white&logo=git)
+![github](https://img.shields.io/badge/Github-181717?style=flat&logoColor=white&logo=github)
+![Jira](https://img.shields.io/badge/Jira-4f92ed?style=flat&logoColor=white&logo=jirasoftware) <br />
+![Framer-Motion](https://img.shields.io/badge/Framer--Motion-ec3ab6?style=flat&logoColor=black&logo=framer)
 
 I'M CURRENTLY LEARNING <br />
 
-![react-native](https://img.shields.io/badge/REACT_NATIVE-61dafb?style=flat&logoColor=white&logo=react)
-![Threedotjs](https://img.shields.io/badge/THREE_JS-fff?style=flat&logoColor=black&logo=threedotjs)
+![react-native](https://img.shields.io/badge/React_Native-61dafb?style=flat&logoColor=white&logo=react)
+![Threedotjs](https://img.shields.io/badge/Three.js-fff?style=flat&logoColor=black&logo=threedotjs)
 <!-- ![socketIO](https://img.shields.io/badge/SOCKET_IO-fff?style=flat&logoColor=black&logo=socketdotio) -->
 <!-- ![R3F](https://img.shields.io/badge/REACT_THREE_FIBER-fff?style=flat&logoColor=black&logo=threedotjs) -->
 
