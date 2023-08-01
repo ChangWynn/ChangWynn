@@ -112,24 +112,24 @@ I'M CURRENTLY LEARNING <br />
 
 </div>
 
+<div align="center">
+  
+#### MY STATS
+
+  <!-- [![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0&count_weight=1&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats) -->
+  
+  ![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
+  
+</div>
+
 <div align='center'>
   
-#### CONTACT ME
+#### CONTACTS
 
   <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
   <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
   
 </div>
-
-<!-- <div align="center">
-  
-#### MY STATS
-
-  [![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0.5&count_weight=0.5&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats)
-  
-  ![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
-  
-</div> -->
   
 
 
