@@ -15,6 +15,14 @@
 
 <div align="center">
 
+  <!-- [![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0&count_weight=1&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats) -->
+  
+  ![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
+  
+</div>
+
+<div align="center">
+
 TECH STACK
 
 ![react](https://img.shields.io/badge/React-5ed3f3?style=flat&logoColor=white&logo=react) 
@@ -112,15 +120,6 @@ I'M CURRENTLY LEARNING <br />
 
 </div>
 
-<div align="center">
-  
-#### MY STATS
-
-  <!-- [![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0&count_weight=1&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats) -->
-  
-  ![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
-  
-</div>
 
 <div align='center'>
   
