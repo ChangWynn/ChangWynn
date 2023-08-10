@@ -47,7 +47,8 @@ TECH STACK
 I'M CURRENTLY LEARNING <br />
 
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=flat&logoColor=61DAFB&logo=react)
-![Java](https://custom-icon-badges.demolab.com/badge/Java-f89b24?style=flat&logoColor=0d86c1&logo=javase)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-f89b24?style=flat&logoColor=fff&logo=javase)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-springboot?style=flat&logoColor=fff&logo=springboot)
 ![JUnit](https://img.shields.io/badge/JUnit-2ca467?style=flat&logoColor=dd5750&logo=junit5)
 <!-- ![Threedotjs](https://img.shields.io/badge/Three.js-20232A?style=flat&logoColor=fff&logo=threedotjs) -->
 <!-- ![socketIO](https://img.shields.io/badge/SOCKET_IO-fff?style=flat&logoColor=black&logo=socketdotio) -->
