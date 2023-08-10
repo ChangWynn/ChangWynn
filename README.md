@@ -25,9 +25,9 @@
 
 TECH STACK
 
-![react](https://img.shields.io/badge/React-5ed3f3?style=flat&logoColor=white&logo=react) 
+![react](https://img.shields.io/badge/React-20232A?style=flat&logoColor=61DAFB&logo=react) 
 ![redux](https://img.shields.io/badge/Redux-764abc?style=flat&logoColor=white&logo=redux) *
-![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logoColor=white&logo=javascript)
+![javascript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logoColor=f7df1e&logo=javascript)
 ![html](https://img.shields.io/badge/Html5-E34F26?style=flat&logoColor=white&logo=html5)
 ![css](https://img.shields.io/badge/Css3-1572B6?style=flat&logoColor=white&logo=css3)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logoColor=white&logo=ruby) <br />
@@ -46,8 +46,10 @@ TECH STACK
 
 I'M CURRENTLY LEARNING <br />
 
-![react-native](https://img.shields.io/badge/React_Native-61dafb?style=flat&logoColor=white&logo=react)
-![Threedotjs](https://img.shields.io/badge/Three.js-fff?style=flat&logoColor=black&logo=threedotjs)
+![react-native](https://img.shields.io/badge/React_Native-20232A?style=flat&logoColor=61DAFB&logo=react)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-f89b24?style=flat&logoColor=0d86c1&logo=javase)
+![JUnit](https://img.shields.io/badge/JUnit-2ca467?style=flat&logoColor=dd5750&logo=junit5)
+<!-- ![Threedotjs](https://img.shields.io/badge/Three.js-20232A?style=flat&logoColor=fff&logo=threedotjs) -->
 <!-- ![socketIO](https://img.shields.io/badge/SOCKET_IO-fff?style=flat&logoColor=black&logo=socketdotio) -->
 <!-- ![R3F](https://img.shields.io/badge/REACT_THREE_FIBER-fff?style=flat&logoColor=black&logo=threedotjs) -->
 
