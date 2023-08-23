@@ -26,33 +26,39 @@
 TECH STACK
 
 ![react](https://img.shields.io/badge/React-20232A?style=flat&logoColor=61DAFB&logo=react) 
-![redux](https://img.shields.io/badge/Redux-764abc?style=flat&logoColor=white&logo=redux) *
-![javascript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logoColor=f7df1e&logo=javascript)
-![html](https://img.shields.io/badge/Html5-E34F26?style=flat&logoColor=white&logo=html5)
-![css](https://img.shields.io/badge/Css3-1572B6?style=flat&logoColor=white&logo=css3)
-![ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logoColor=white&logo=ruby) <br />
+![react-native](https://img.shields.io/badge/React_Native-20232A?style=flat&logoColor=61DAFB&logo=react) <br />
+![javascript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logoColor=20232A&logo=javascript)
+![typescript](https://img.shields.io/badge/Typescript-3178c6?style=flat&logoColor=20232A&logo=typescript) *
+![html](https://img.shields.io/badge/Html5-E34F26?style=flat&logoColor=white&logo=html5) 
+![css](https://img.shields.io/badge/Css3-1572B6?style=flat&logoColor=white&logo=css3) <br />
+![cypress](https://img.shields.io/badge/Cypress-52a688?style=flat&logoColor=white&logo=cypress)
+![jest](https://img.shields.io/badge/Jest-C21325?style=flat&logoColor=white&logo=jest)
+![testingLibrary](https://img.shields.io/badge/Testing_Library/React-fa4f49?style=flat&logoColor=white&logo=testinglibrary) <br />
+![java](https://custom-icon-badges.demolab.com/badge/Java-f89b24?style=flat&logoColor=20232A&logo=javase)
+![spring](https://img.shields.io/badge/Spring-springboot?style=flat&logoColor=fff&logo=spring)
+![springBoot](https://img.shields.io/badge/SpringBoot-springboot?style=flat&logoColor=fff&logo=springboot) 
+![jUnit](https://img.shields.io/badge/JUnit-2ca467?style=flat&logoColor=dd5750&logo=junit5) <br />
 ![nodedotjs](https://img.shields.io/badge/Node.js-339933?style=flat&logoColor=white&logo=nodedotjs)
-![express](https://img.shields.io/badge/Express-000000?style=flat&logoColor=white&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-ffcc30?style=flat&logoColor=black&logo=firebase) *
+![express](https://img.shields.io/badge/Express-000000?style=flat&logoColor=white&logo=express) *
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logoColor=white&logo=mongodb)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logoColor=white&logo=postgresql) <br />
-![jest](https://img.shields.io/badge/Jest-C21325?style=flat&logoColor=white&logo=jest)
-![testingLibrary](https://img.shields.io/badge/Testing_Library/React-fa4f49?style=flat&logoColor=white&logo=testinglibrary)
-![rspec](https://img.shields.io/badge/Rspec-fe405f?style=flat&logoColor=white&logo=rubygems) <br />
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logoColor=white&logo=git)
 ![github](https://img.shields.io/badge/Github-181717?style=flat&logoColor=white&logo=github)
-![Jira](https://img.shields.io/badge/Jira-4f92ed?style=flat&logoColor=white&logo=jirasoftware) <br />
-![Framer-Motion](https://img.shields.io/badge/Framer--Motion-ec3ab6?style=flat&logoColor=black&logo=framer)
+![Jira](https://img.shields.io/badge/Jira-4f92ed?style=flat&logoColor=white&logo=jirasoftware) *
+![firebase](https://img.shields.io/badge/Firebase-ffcc30?style=flat&logoColor=black&logo=firebase)
+![framer-Motion](https://img.shields.io/badge/Framer--Motion-ec3ab6?style=flat&logoColor=black&logo=framer)
 
+
+
+<!-- 
 I'M CURRENTLY LEARNING <br />
-
-![react-native](https://img.shields.io/badge/React_Native-20232A?style=flat&logoColor=61DAFB&logo=react)
-![Java](https://custom-icon-badges.demolab.com/badge/Java-f89b24?style=flat&logoColor=fff&logo=javase)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-springboot?style=flat&logoColor=fff&logo=springboot)
-![JUnit](https://img.shields.io/badge/JUnit-2ca467?style=flat&logoColor=dd5750&logo=junit5)
-<!-- ![Threedotjs](https://img.shields.io/badge/Three.js-20232A?style=flat&logoColor=fff&logo=threedotjs) -->
-<!-- ![socketIO](https://img.shields.io/badge/SOCKET_IO-fff?style=flat&logoColor=black&logo=socketdotio) -->
-<!-- ![R3F](https://img.shields.io/badge/REACT_THREE_FIBER-fff?style=flat&logoColor=black&logo=threedotjs) -->
+![redux](https://img.shields.io/badge/Redux-764abc?style=flat&logoColor=white&logo=redux)
+![rspec](https://img.shields.io/badge/Rspec-fe405f?style=flat&logoColor=white&logo=rubygems) 
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logoColor=white&logo=ruby) 
+![Threedotjs](https://img.shields.io/badge/Three.js-20232A?style=flat&logoColor=fff&logo=threedotjs)
+![socketIO](https://img.shields.io/badge/SOCKET_IO-fff?style=flat&logoColor=black&logo=socketdotio) 
+![R3F](https://img.shields.io/badge/REACT_THREE_FIBER-fff?style=flat&logoColor=black&logo=threedotjs) 
+-->
 
 <!--
   ![javascript](https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logoColor=white&logo=javascript)
