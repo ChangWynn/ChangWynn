@@ -1,19 +1,16 @@
 ![banner](./images/banner_2.png)
 
-<!--  
-  <div align="center">
+<!--
 
-  [![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=0&count_weight=1&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats) 
+<div  align="center">
+  
+  [![Top Langs](https://github-readme-stats-two-chi-96.vercel.app/api/top-langs/?username=ChangWynn&size_weight=1&count_weight=0&theme=slateorange&layout=compact)](https://github.com/ChangWynn/github-readme-stats)
   
   ![Chang's GitHub stats](https://github-readme-stats-two-chi-96.vercel.app/api?username=ChangWynn&hide=stars&show_icons=true&theme=slateorange)
   
-  </div> 
+</div> 
+
 -->
-
-
-
-
-
 
 <!-- 
 I'M CURRENTLY LEARNING <br />
