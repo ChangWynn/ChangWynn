@@ -1,6 +1,6 @@
 ![banner](./images/banner_2.png)
 
-<!--
+
 
 <div  align="center">
   
@@ -10,7 +10,7 @@
   
 </div> 
 
--->
+
 
 <!-- 
 I'M CURRENTLY LEARNING <br />
@@ -107,7 +107,7 @@ I'M CURRENTLY LEARNING <br />
 
 <div align='center'>
 
-  <a href='mailto:huynhchang.one@gmail.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
+  <a href='mailto:chang.huynh@outlook.com' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/circled-envelope.png" alt="circled-envelope"/></a>
   <a href='https://www.linkedin.com/in/chang-huynh-8950811b9/' target="_blank" ><img width="40" height="40" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
   
 </div>
