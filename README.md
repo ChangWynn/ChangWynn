@@ -1,6 +1,6 @@
 ![banner](./images/banner_2.png)
 
-
+<!-- 
 
 <div  align="center">
   
@@ -10,7 +10,7 @@
   
 </div> 
 
-
+-->
 
 <!-- 
 I'M CURRENTLY LEARNING <br />
